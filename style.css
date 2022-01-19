@@ -1,0 +1,50 @@
+body{
+  background-image: url(./2822419.jpg);
+  
+ 
+}
+h1:hover {
+  font-size: 30px;
+  background-color: red;
+  width: fit-content;
+}
+h3:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+#name:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+#surname:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+#email:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+#language-selector:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+#feature:hover {
+  font-size: 20px;
+  background-color: red;
+  width: fit-content;
+}
+.submit-button{
+  color: red;
+}
+input["submit"] {
+  font-size: 0.9rem;
+}
+#submit:hover{
+background-color: red;
+color: white;
+}
